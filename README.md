@@ -3,73 +3,95 @@
 </p>
 
 <h1 align="center">Hi, I'm Syed Bayzid</h1>
-<h3 align="center">MERN STACK DEVELOPER | FRONEND DEVELOPER</h3>
+<h3 align="center">MERN STACK DEVELOPER | FRONTEND DEVELOPER</h3>
 
 ---
 
 ## About Me
-I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB and also AI technologies. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
+
+I am a passionate MERN Stack and Frontend Web Developer from Bangladesh.  
+I work with modern web technologies like React, Node.js, Express, MongoDB, and also explore AI-related technologies.  
+I enjoy solving real-world problems through coding and continuously improving my development skills.
 
 ---
 
-## 🚀 Tech Stack
+## Skill Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-## 💡 Core Strengths
+## What I'm Learning
 
-- Frontend Development (React.js, Next.js)
-- MERN Stack Development
-- REST API Development (Node.js + Express)
-- Responsive UI Design (Tailwind CSS)
-- Authentication & Database (Firebase, MongoDB)
-- Git & GitHub Collaboration
-- Basic UI/UX Design (Figma)
+I am currently enrolled in **CS Fundamentals With Phitron (Spring 2026)**, focusing on strengthening my core Computer Science and Software Development skills.
+
+### Programming & Problem Solving
+- C Programming Fundamentals (Syntax, Variables, Data Types, Operators)
+- Conditional Statements, Loops, Functions, Recursion
+- Problem Solving (Array, String, Math, Pattern Problems)
+- Time and Space Complexity Analysis
+
+### Data Structures & Algorithms
+- Arrays, Strings
+- Linked List (Singly, Doubly)
+- Stack, Queue, Priority Queue
+- Binary Tree, BST, Heap
+- Sorting and Searching Algorithms
+- Two Pointers, Prefix Sum
+- Graph Algorithms (BFS, DFS, Dijkstra, Bellman-Ford, Floyd Warshall)
+- Dynamic Programming (Knapsack, LCS, LIS)
+- Disjoint Set Union (DSU)
+- Segment Tree (Basic and Lazy Propagation)
+- Bit Manipulation and Number Theory
+
+### Software Development
+- Object Oriented Programming (Python)
+- Database Systems (MySQL / PostgreSQL, SQL, Normalization)
+- Frontend Development (HTML, CSS, JavaScript, React)
+- Backend Development (Node.js, Express, FastAPI)
+- REST API Development
+- Authentication (JWT, Firebase)
+- Full Stack MERN Development
+- Deployment (Vercel, Netlify)
+
+### Emerging Skills
+- AI-powered Frontend Development
+- API-based Machine Learning Integration
+- Modern Web Development Practices
 
 ---
 
-## 🧠 Comfortable With
+## Comfortable With
 
-- Team Projects & Git Workflow
-- Deployment (Vercel, Netlify, etc)
+- Team Projects and Git Workflow
+- Clean Code Practices
+- REST API Integration
+- Deployment Platforms (Vercel, Netlify)
+
+---
+
+## Core Strengths
+
+- Frontend Development (React.js, Next.js)
+- MERN Stack Development
+- Backend API Development (Node.js, Express)
+- Responsive UI Design (Tailwind CSS)
+- Database Handling (MongoDB, Firebase)
+- Authentication and Authorization
+- Git and GitHub Collaboration
+- Basic UI/UX Design (Figma)
 
 ---
 
 ## Connect with Me
 
-[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/syed-bayzid-b91343329) 
-[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="40"/>](https://www.facebook.com/syed.bayzidhusain)
+[LinkedIn](https://www.linkedin.com/in/syed-bayzid-b91343329)  
+[Facebook](https://www.facebook.com/syed.bayzidhusain)
 
 ---
 
-## GitHub Badges
+## GitHub Stats
 
-<a href='https://archiveprogram.github.com/'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
-</a>
-<a href='https://docs.github.com/en/developers'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a>
-<a href='https://github.com/pricing'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
-</a>
-<a href='https://stars.github.com/'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
-</a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
-</a>
-
----
-
-## GitHub Trophies 
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=syedbayzid82849&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbayzid82849&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbayzid82849&layout=compact&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedbayzid82849&show_icons=true&count_private=true&theme=tokyonight)

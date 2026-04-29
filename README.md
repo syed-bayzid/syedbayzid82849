@@ -7,18 +7,18 @@
 
 ---
 
-### About Me
+## About Me
 I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB and also AI technologies. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-### 💡 Core Strengths
+## 💡 Core Strengths
 
 - Frontend Development (React.js, Next.js)
 - MERN Stack Development
@@ -30,21 +30,21 @@ I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working w
 
 ---
 
-### 🧠 Comfortable With
+## 🧠 Comfortable With
 
 - Team Projects & Git Workflow
 - Deployment (Vercel, Netlify, etc)
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/syed-bayzid-b91343329) 
 [<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="40"/>](https://www.facebook.com/syed.bayzidhusain)
 
 ---
 
-### GitHub Badges
+## GitHub Badges
 
 <a href='https://archiveprogram.github.com/'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
@@ -64,7 +64,7 @@ I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working w
 
 ---
 
-### GitHub Trophies 
+## GitHub Trophies 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedbayzid82849&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -12,13 +12,28 @@ I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working w
 
 ---
 
-### Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+### 🚀 Tech Stack
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma&theme=light)](https://skillicons.dev)
 
+---
+
+### 💡 Core Strengths
+
+- Frontend Development (React.js, Next.js)
+- MERN Stack Development
+- REST API Development (Node.js + Express)
+- Responsive UI Design (Tailwind CSS)
+- Authentication & Database (Firebase, MongoDB)
+- Git & GitHub Collaboration
+- Basic UI/UX Design (Figma)
+
+---
+
+### 🧠 Comfortable With
+
+- Team Projects & Git Workflow
+- Deployment (Vercel, Netlify, etc)
 
 ---
 

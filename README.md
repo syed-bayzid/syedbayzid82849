@@ -53,7 +53,7 @@ I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working w
 
 ---
 
-### GitHub Trophies
+### GitHub Trophies 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedbayzid82849&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
